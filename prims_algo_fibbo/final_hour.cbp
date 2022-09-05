@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="final_hour" />
+		<Option pch_mode="2" />
+		<Option compiler="cygwin" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/final_hour" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="cygwin" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/final_hour" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="cygwin" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="cost.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="cost.h" />
+		<Unit filename="edge_count.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="edge_count.h" />
+		<Unit filename="fib_heap_header.h" />
+		<Unit filename="generate_graph.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="generate_graph.h" />
+		<Unit filename="insert_edge.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="insert_edge.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="print_graph.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="print_graph.h" />
+		<Unit filename="structures.h" />
+		<Unit filename="vertex_count.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="vertex_count.h" />
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>
