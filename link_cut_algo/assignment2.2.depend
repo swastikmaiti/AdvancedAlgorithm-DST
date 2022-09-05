@@ -1,0 +1,122 @@
+# depslib dependency file v1.0
+1617679004 source:c:\users\swast\onedrive\documents\c\assignment2.2\cost.c
+	"cost.h"
+	<stdlib.h>
+	<stdio.h>
+
+1616305510 c:\users\swast\onedrive\documents\c\assignment2.2\cost.h
+
+1618484521 source:c:\users\swast\onedrive\documents\c\assignment2.2\edge_count.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"edge_count.h"
+
+1617637466 c:\users\swast\onedrive\documents\c\assignment2.2\edge_count.h
+
+1618484521 source:c:\users\swast\onedrive\documents\c\assignment2.2\generate_graph.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"generate_graph.h"
+	"insert_edge.h"
+
+1616305552 c:\users\swast\onedrive\documents\c\assignment2.2\generate_graph.h
+	"structures.h"
+
+1615015920 c:\users\swast\onedrive\documents\c\assignment2.2\structures.h
+	<stdio.h>
+
+1615015920 c:\users\swast\onedrive\documents\c\assignment2.2\insert_edge.h
+	"structures.h"
+
+1618463893 source:c:\users\swast\onedrive\documents\c\assignment2.2\generate_incoming_graph.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"generate_incoming_graph.h"
+	"insert_edge.h"
+
+1618463893 c:\users\swast\onedrive\documents\c\assignment2.2\generate_incoming_graph.h
+	"structures.h"
+
+1617638171 source:c:\users\swast\onedrive\documents\c\assignment2.2\insert_edge.c
+	"insert_edge.h"
+	<stdlib.h>
+
+1618484151 source:c:\users\swast\onedrive\documents\c\assignment2.2\main.c
+	<stdio.h>
+	<stdbool.h>
+	"cost.h"
+	"edge_count.h"
+	"generate_graph.h"
+	"insert_edge.h"
+	"print_graph.h"
+	"print_aug_graph.h"
+	"structures.h"
+	"vertex_count.h"
+	"generate_incoming_graph.h"
+	"stack.h"
+	"tree_operation.h"
+	"splay.h"
+	"level_graph.h"
+
+1618484115 c:\users\swast\onedrive\documents\c\assignment2.2\print_graph.h
+	<stdio.h>
+	"structures.h"
+
+1618298833 c:\users\swast\onedrive\documents\c\assignment2.2\print_aug_graph.h
+	<stdio.h>
+	"structures.h"
+
+1617636558 c:\users\swast\onedrive\documents\c\assignment2.2\vertex_count.h
+
+1617705646 c:\users\swast\onedrive\documents\c\assignment2.2\stack.h
+	<stdlib.h>
+
+1618296461 c:\users\swast\onedrive\documents\c\assignment2.2\tree_operation.h
+	"splay.h"
+
+1618107597 c:\users\swast\onedrive\documents\c\assignment2.2\splay.h
+
+1618484115 source:c:\users\swast\onedrive\documents\c\assignment2.2\print_aug_graph.c
+	"print_aug_graph.h"
+
+1618484586 source:c:\users\swast\onedrive\documents\c\assignment2.2\print_graph.c
+	"print_graph.h"
+
+1618246158 source:c:\users\swast\onedrive\documents\c\assignment2.2\splay.c
+	<stdio.h>
+	<stdlib.h>
+	"splay.h"
+
+1618479855 source:c:\users\swast\onedrive\documents\c\assignment2.2\tree_operation.c
+	<stdlib.h>
+	<stdio.h>
+	"tree_operation.h"
+
+1618484521 source:c:\users\swast\onedrive\documents\c\assignment2.2\vertex_count.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"vertex_count.h"
+
+1618463818 source:c:\users\swast\onedrive\documents\c\assignment2.2\level_graph.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"generate_graph.h"
+	"level_graph.h"
+	"vertex_count.h"
+	"queue.h"
+	"insert_edge.h"
+
+1618452153 c:\users\swast\onedrive\documents\c\assignment2.2\level_graph.h
+
+1618417627 c:\users\swast\onedrive\documents\c\assignment2.2\queue.h
+
+1618479855 source:c:\users\swast\onedrive\documents\c\assignment2.2\queue.c
+	<stdlib.h>
+	<stdio.h>
+	"queue.h"
+
