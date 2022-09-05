@@ -1,0 +1,135 @@
+# depslib dependency file v1.0
+1615021149 source:c:\users\swast\onedrive\documents\c\boruvka1\cost.c
+	"cost.h"
+	<stdlib.h>
+	<stdio.h>
+
+1615017045 c:\users\swast\onedrive\documents\c\boruvka1\cost.h
+
+1615010385 source:c:\users\swast\onedrive\documents\c\boruvka1\edge_count.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"vertex_count.h"
+
+1615010102 c:\users\swast\onedrive\documents\c\boruvka1\vertex_count.h
+	"vertex_count.h"
+
+1616234081 source:c:\users\swast\onedrive\documents\c\boruvka1\generate_graph.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"generate_graph.h"
+	"insert_edge.h"
+
+1615017143 c:\users\swast\onedrive\documents\c\boruvka1\generate_graph.h
+	"structures.h"
+
+1615015919 c:\users\swast\onedrive\documents\c\boruvka1\structures.h
+	<stdio.h>
+
+1615015919 c:\users\swast\onedrive\documents\c\boruvka1\insert_edge.h
+	"structures.h"
+
+1616234083 source:c:\users\swast\onedrive\documents\c\boruvka1\insert_edge.c
+	"insert_edge.h"
+	<stdlib.h>
+
+1616238120 source:c:\users\swast\onedrive\documents\c\boruvka1\print_graph.c
+	"print_graph.h"
+
+1615016804 c:\users\swast\onedrive\documents\c\boruvka1\print_graph.h
+	<stdio.h>
+	"structures.h"
+
+1615010385 source:c:\users\swast\onedrive\documents\c\boruvka1\vertex_count.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"vertex_count.h"
+
+1616238120 source:c:\users\swast\onedrive\documents\c\boruvka1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"cost.h"
+	"edge_count.h"
+	"generate_graph.h"
+	"insert_edge.h"
+	"print_graph.h"
+	"structures.h"
+	"vertex_count.h"
+	"functions.h"
+
+1615010385 c:\users\swast\onedrive\documents\c\boruvka1\edge_count.h
+	"edge_count.h"
+
+1616238219 c:\users\swast\onedrive\documents\c\boruvka1\functions.h
+	"vertex_count.h"
+
+1616306547 source:c:\users\swast\onedrive\desktop\prgramming_assignment\boruvka1\cost.c
+	"cost.h"
+	<stdlib.h>
+	<stdio.h>
+
+1616306333 c:\users\swast\onedrive\desktop\prgramming_assignment\boruvka1\cost.h
+
+1616336133 source:c:\users\swast\onedrive\desktop\prgramming_assignment\boruvka1\edge_count.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"vertex_count.h"
+
+1615010102 c:\users\swast\onedrive\desktop\prgramming_assignment\boruvka1\vertex_count.h
+	"vertex_count.h"
+
+1616336133 source:c:\users\swast\onedrive\desktop\prgramming_assignment\boruvka1\generate_graph.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"generate_graph.h"
+	"insert_edge.h"
+
+1616306354 c:\users\swast\onedrive\desktop\prgramming_assignment\boruvka1\generate_graph.h
+	"structures.h"
+
+1615015919 c:\users\swast\onedrive\desktop\prgramming_assignment\boruvka1\structures.h
+	<stdio.h>
+
+1615015919 c:\users\swast\onedrive\desktop\prgramming_assignment\boruvka1\insert_edge.h
+	"structures.h"
+
+1616234083 source:c:\users\swast\onedrive\desktop\prgramming_assignment\boruvka1\insert_edge.c
+	"insert_edge.h"
+	<stdlib.h>
+
+1616238120 source:c:\users\swast\onedrive\desktop\prgramming_assignment\boruvka1\print_graph.c
+	"print_graph.h"
+
+1615016804 c:\users\swast\onedrive\desktop\prgramming_assignment\boruvka1\print_graph.h
+	<stdio.h>
+	"structures.h"
+
+1616336133 source:c:\users\swast\onedrive\desktop\prgramming_assignment\boruvka1\vertex_count.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"vertex_count.h"
+
+1616306521 source:c:\users\swast\onedrive\desktop\prgramming_assignment\boruvka1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"cost.h"
+	"edge_count.h"
+	"generate_graph.h"
+	"insert_edge.h"
+	"print_graph.h"
+	"structures.h"
+	"vertex_count.h"
+	"functions.h"
+
+1615010385 c:\users\swast\onedrive\desktop\prgramming_assignment\boruvka1\edge_count.h
+	"edge_count.h"
+
+1616306333 c:\users\swast\onedrive\desktop\prgramming_assignment\boruvka1\functions.h
+	"vertex_count.h"
+
