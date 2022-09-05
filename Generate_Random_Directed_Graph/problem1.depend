@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1618484372 source:c:\users\swast\onedrive\documents\programming_assignment2\question1\problem1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<stdbool.h>
+	<time.h>
+	"edge_str.h"
+
+1616255992 c:\users\swast\onedrive\documents\programming_assignment2\question1\problem1\edge_str.h
+
