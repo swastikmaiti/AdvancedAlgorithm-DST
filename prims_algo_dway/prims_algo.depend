@@ -1,0 +1,205 @@
+# depslib dependency file v1.0
+1616148929 source:c:\users\swast\onedrive\documents\c\prims_algo\adjust.c
+	<stdio.h>
+	"adjust.h"
+	"structure.h"
+
+1615041087 c:\users\swast\onedrive\documents\c\prims_algo\adjust.h
+	"structure.h"
+
+1614947003 c:\users\swast\onedrive\documents\c\prims_algo\structure.h
+
+1616148929 source:c:\users\swast\onedrive\documents\c\prims_algo\build_heap.c
+	<stdio.h>
+	<math.h>
+	"build_heap.h"
+	"adjust.h"
+
+1614954081 c:\users\swast\onedrive\documents\c\prims_algo\build_heap.h
+	"structure.h"
+
+1615036429 source:c:\users\swast\onedrive\documents\c\prims_algo\cost.c
+	"cost.h"
+	<stdlib.h>
+	<stdio.h>
+
+1615017045 c:\users\swast\onedrive\documents\c\prims_algo\cost.h
+
+1616148929 source:c:\users\swast\onedrive\documents\c\prims_algo\del_min.c
+	"del_min.h"
+	"adjust.h"
+	<stdio.h>
+
+1615041087 c:\users\swast\onedrive\documents\c\prims_algo\del_min.h
+	"structure.h"
+
+1615010385 source:c:\users\swast\onedrive\documents\c\prims_algo\edge_count.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"vertex_count.h"
+
+1615010102 c:\users\swast\onedrive\documents\c\prims_algo\vertex_count.h
+	"vertex_count.h"
+
+1615043220 source:c:\users\swast\onedrive\documents\c\prims_algo\generate_graph.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"generate_graph.h"
+	"insert_edge.h"
+
+1615017143 c:\users\swast\onedrive\documents\c\prims_algo\generate_graph.h
+	"structures.h"
+
+1615015919 c:\users\swast\onedrive\documents\c\prims_algo\structures.h
+	<stdio.h>
+
+1615015919 c:\users\swast\onedrive\documents\c\prims_algo\insert_edge.h
+	"structures.h"
+
+1615043220 source:c:\users\swast\onedrive\documents\c\prims_algo\insert_edge.c
+	"insert_edge.h"
+	<stdlib.h>
+
+1615029328 source:c:\users\swast\onedrive\documents\c\prims_algo\print_graph.c
+	"print_graph.h"
+
+1615016804 c:\users\swast\onedrive\documents\c\prims_algo\print_graph.h
+	<stdio.h>
+	"structures.h"
+
+1616150272 source:c:\users\swast\onedrive\documents\c\prims_algo\reduce_key.c
+	<stdio.h>
+	"reduce_key.h"
+
+1615041087 c:\users\swast\onedrive\documents\c\prims_algo\reduce_key.h
+	"structure.h"
+
+1615010385 source:c:\users\swast\onedrive\documents\c\prims_algo\vertex_count.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"vertex_count.h"
+
+1616224545 source:c:\users\swast\onedrive\documents\c\prims_algo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"adjust.h"
+	"build_heap.h"
+	"cost.h"
+	"edge_count.h"
+	"generate_graph.h"
+	"insert_edge.h"
+	"print_graph.h"
+	"structure.h"
+	"structures.h"
+	"vertex_count.h"
+	"del_min.h"
+	"reduce_key.h"
+
+1615010385 c:\users\swast\onedrive\documents\c\prims_algo\edge_count.h
+	"edge_count.h"
+
+1616148929 source:c:\users\swast\onedrive\desktop\prgramming_assignment\prims_algo_dway\adjust.c
+	<stdio.h>
+	"adjust.h"
+	"structure.h"
+
+1615041087 c:\users\swast\onedrive\desktop\prgramming_assignment\prims_algo_dway\adjust.h
+	"structure.h"
+
+1616302553 c:\users\swast\onedrive\desktop\prgramming_assignment\prims_algo_dway\structure.h
+
+1616305338 source:c:\users\swast\onedrive\desktop\prgramming_assignment\prims_algo_dway\build_heap.c
+	<stdio.h>
+	<math.h>
+	"build_heap.h"
+	"adjust.h"
+
+1614954081 c:\users\swast\onedrive\desktop\prgramming_assignment\prims_algo_dway\build_heap.h
+	"structure.h"
+
+1616305745 source:c:\users\swast\onedrive\desktop\prgramming_assignment\prims_algo_dway\cost.c
+	"cost.h"
+	<stdlib.h>
+	<stdio.h>
+
+1616305508 c:\users\swast\onedrive\desktop\prgramming_assignment\prims_algo_dway\cost.h
+
+1616305169 source:c:\users\swast\onedrive\desktop\prgramming_assignment\prims_algo_dway\del_min.c
+	"del_min.h"
+	"adjust.h"
+	<stdio.h>
+
+1616305169 c:\users\swast\onedrive\desktop\prgramming_assignment\prims_algo_dway\del_min.h
+	"structure.h"
+
+1616337092 source:c:\users\swast\onedrive\desktop\prgramming_assignment\prims_algo_dway\edge_count.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"vertex_count.h"
+
+1615010102 c:\users\swast\onedrive\desktop\prgramming_assignment\prims_algo_dway\vertex_count.h
+	"vertex_count.h"
+
+1616337092 source:c:\users\swast\onedrive\desktop\prgramming_assignment\prims_algo_dway\generate_graph.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"generate_graph.h"
+	"insert_edge.h"
+
+1616305551 c:\users\swast\onedrive\desktop\prgramming_assignment\prims_algo_dway\generate_graph.h
+	"structures.h"
+
+1615015919 c:\users\swast\onedrive\desktop\prgramming_assignment\prims_algo_dway\structures.h
+	<stdio.h>
+
+1615015919 c:\users\swast\onedrive\desktop\prgramming_assignment\prims_algo_dway\insert_edge.h
+	"structures.h"
+
+1616239227 source:c:\users\swast\onedrive\desktop\prgramming_assignment\prims_algo_dway\insert_edge.c
+	"insert_edge.h"
+	<stdlib.h>
+
+1616305405 source:c:\users\swast\onedrive\desktop\prgramming_assignment\prims_algo_dway\main.c
+	<stdio.h>
+	<stdlib.h>
+	"adjust.h"
+	"build_heap.h"
+	"cost.h"
+	"edge_count.h"
+	"generate_graph.h"
+	"insert_edge.h"
+	"print_graph.h"
+	"structure.h"
+	"structures.h"
+	"vertex_count.h"
+	"del_min.h"
+	"reduce_key.h"
+
+1615010385 c:\users\swast\onedrive\desktop\prgramming_assignment\prims_algo_dway\edge_count.h
+	"edge_count.h"
+
+1615016804 c:\users\swast\onedrive\desktop\prgramming_assignment\prims_algo_dway\print_graph.h
+	<stdio.h>
+	"structures.h"
+
+1615041087 c:\users\swast\onedrive\desktop\prgramming_assignment\prims_algo_dway\reduce_key.h
+	"structure.h"
+
+1615029328 source:c:\users\swast\onedrive\desktop\prgramming_assignment\prims_algo_dway\print_graph.c
+	"print_graph.h"
+
+1616150272 source:c:\users\swast\onedrive\desktop\prgramming_assignment\prims_algo_dway\reduce_key.c
+	<stdio.h>
+	"reduce_key.h"
+
+1616337092 source:c:\users\swast\onedrive\desktop\prgramming_assignment\prims_algo_dway\vertex_count.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"vertex_count.h"
+
