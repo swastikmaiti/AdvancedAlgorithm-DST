@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1616226006 source:c:\users\swast\onedrive\documents\c\assignment\test\assignment1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<stdbool.h>
+
+1616322684 source:c:\users\swast\onedrive\desktop\prgramming_assignment\assignment1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<stdbool.h>
+	<time.h>
+	"edge_str.h"
+
+1616255990 c:\users\swast\onedrive\desktop\prgramming_assignment\assignment1\edge_str.h
+
