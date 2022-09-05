@@ -1,0 +1,133 @@
+# depslib dependency file v1.0
+1615021149 source:c:\users\swast\onedrive\documents\c\prims_with_splaytree\cost.c
+	"cost.h"
+	<stdlib.h>
+	<stdio.h>
+
+1615017045 c:\users\swast\onedrive\documents\c\prims_with_splaytree\cost.h
+
+1615010385 source:c:\users\swast\onedrive\documents\c\prims_with_splaytree\edge_count.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"vertex_count.h"
+
+1615010102 c:\users\swast\onedrive\documents\c\prims_with_splaytree\vertex_count.h
+	"vertex_count.h"
+
+1616233812 source:c:\users\swast\onedrive\documents\c\prims_with_splaytree\generate_graph.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"generate_graph.h"
+	"insert_edge.h"
+
+1615017143 c:\users\swast\onedrive\documents\c\prims_with_splaytree\generate_graph.h
+	"structures.h"
+
+1615015919 c:\users\swast\onedrive\documents\c\prims_with_splaytree\structures.h
+	<stdio.h>
+
+1615015919 c:\users\swast\onedrive\documents\c\prims_with_splaytree\insert_edge.h
+	"structures.h"
+
+1616227096 source:c:\users\swast\onedrive\documents\c\prims_with_splaytree\insert_edge.c
+	"insert_edge.h"
+	<stdlib.h>
+
+1616233812 source:c:\users\swast\onedrive\documents\c\prims_with_splaytree\print_graph.c
+	"print_graph.h"
+
+1615016804 c:\users\swast\onedrive\documents\c\prims_with_splaytree\print_graph.h
+	<stdio.h>
+	"structures.h"
+
+1615010385 source:c:\users\swast\onedrive\documents\c\prims_with_splaytree\vertex_count.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"vertex_count.h"
+
+1616227194 source:c:\users\swast\onedrive\documents\c\prims_with_splaytree\main.c
+	<stdio.h>
+	<stdlib.h>
+	"cost.h"
+	"edge_count.h"
+	"generate_graph.h"
+	"insert_edge.h"
+	"print_graph.h"
+	"structures.h"
+	"vertex_count.h"
+	"splay.h"
+
+1615010385 c:\users\swast\onedrive\documents\c\prims_with_splaytree\edge_count.h
+	"edge_count.h"
+
+1616233738 c:\users\swast\onedrive\documents\c\prims_with_splaytree\splay.h
+
+1616305868 source:c:\users\swast\onedrive\desktop\prgramming_assignment\prims_with_splaytree\cost.c
+	"cost.h"
+	<stdlib.h>
+	<stdio.h>
+
+1616305868 c:\users\swast\onedrive\desktop\prgramming_assignment\prims_with_splaytree\cost.h
+
+1616337393 source:c:\users\swast\onedrive\desktop\prgramming_assignment\prims_with_splaytree\generate_graph.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"generate_graph.h"
+	"insert_edge.h"
+
+1616305868 c:\users\swast\onedrive\desktop\prgramming_assignment\prims_with_splaytree\generate_graph.h
+	"structures.h"
+
+1615015919 c:\users\swast\onedrive\desktop\prgramming_assignment\prims_with_splaytree\structures.h
+	<stdio.h>
+
+1615015919 c:\users\swast\onedrive\desktop\prgramming_assignment\prims_with_splaytree\insert_edge.h
+	"structures.h"
+
+1616227096 source:c:\users\swast\onedrive\desktop\prgramming_assignment\prims_with_splaytree\insert_edge.c
+	"insert_edge.h"
+	<stdlib.h>
+
+1616305868 source:c:\users\swast\onedrive\desktop\prgramming_assignment\prims_with_splaytree\main.c
+	<stdio.h>
+	<stdlib.h>
+	"cost.h"
+	"edge_count.h"
+	"generate_graph.h"
+	"insert_edge.h"
+	"print_graph.h"
+	"structures.h"
+	"vertex_count.h"
+	"splay.h"
+
+1615010385 c:\users\swast\onedrive\desktop\prgramming_assignment\prims_with_splaytree\edge_count.h
+	"edge_count.h"
+
+1615016804 c:\users\swast\onedrive\desktop\prgramming_assignment\prims_with_splaytree\print_graph.h
+	<stdio.h>
+	"structures.h"
+
+1615010102 c:\users\swast\onedrive\desktop\prgramming_assignment\prims_with_splaytree\vertex_count.h
+	"vertex_count.h"
+
+1616304325 c:\users\swast\onedrive\desktop\prgramming_assignment\prims_with_splaytree\splay.h
+
+1616233812 source:c:\users\swast\onedrive\desktop\prgramming_assignment\prims_with_splaytree\print_graph.c
+	"print_graph.h"
+
+1616337393 source:c:\users\swast\onedrive\desktop\prgramming_assignment\prims_with_splaytree\edge_count.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"vertex_count.h"
+
+1616337393 source:c:\users\swast\onedrive\desktop\prgramming_assignment\prims_with_splaytree\vertex_count.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"vertex_count.h"
+
