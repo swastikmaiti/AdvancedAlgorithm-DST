@@ -1,0 +1,105 @@
+# depslib dependency file v1.0
+1617638171 source:c:\users\swast\onedrive\documents\programming_assignment2\question1\problem2\dinics_algo\insert_edge.c
+	"insert_edge.h"
+	<stdlib.h>
+
+1615015920 c:\users\swast\onedrive\documents\programming_assignment2\question1\problem2\dinics_algo\insert_edge.h
+	"structures.h"
+
+1615015920 c:\users\swast\onedrive\documents\programming_assignment2\question1\problem2\dinics_algo\structures.h
+	<stdio.h>
+
+1617679004 source:c:\users\swast\onedrive\documents\programming_assignment2\question1\problem2\dinics_algo\cost.c
+	"cost.h"
+	<stdlib.h>
+	<stdio.h>
+
+1616305510 c:\users\swast\onedrive\documents\programming_assignment2\question1\problem2\dinics_algo\cost.h
+
+1618484037 source:c:\users\swast\onedrive\documents\programming_assignment2\question1\problem2\dinics_algo\print_graph.c
+	"print_graph.h"
+
+1618484037 c:\users\swast\onedrive\documents\programming_assignment2\question1\problem2\dinics_algo\print_graph.h
+	<stdio.h>
+	"structures.h"
+
+1618484050 source:c:\users\swast\onedrive\documents\programming_assignment2\question1\problem2\dinics_algo\main.c
+	<stdio.h>
+	<stdbool.h>
+	"cost.h"
+	"edge_count.h"
+	"generate_graph.h"
+	"insert_edge.h"
+	"print_graph.h"
+	"print_aug_graph.h"
+	"structures.h"
+	"vertex_count.h"
+	"generate_incoming_graph.h"
+	"stack.h"
+	"level_graph.h"
+
+1617637466 c:\users\swast\onedrive\documents\programming_assignment2\question1\problem2\dinics_algo\edge_count.h
+
+1616305552 c:\users\swast\onedrive\documents\programming_assignment2\question1\problem2\dinics_algo\generate_graph.h
+	"structures.h"
+
+1617636558 c:\users\swast\onedrive\documents\programming_assignment2\question1\problem2\dinics_algo\vertex_count.h
+
+1617637850 source:c:\users\swast\onedrive\documents\programming_assignment2\question1\problem2\dinics_algo\edge_count.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"edge_count.h"
+
+1617642117 source:c:\users\swast\onedrive\documents\programming_assignment2\question1\problem2\dinics_algo\generate_graph.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"generate_graph.h"
+	"insert_edge.h"
+
+1618480660 source:c:\users\swast\onedrive\documents\programming_assignment2\question1\problem2\dinics_algo\vertex_count.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"vertex_count.h"
+
+1618469433 source:c:\users\swast\onedrive\documents\programming_assignment2\question1\problem2\dinics_algo\generate_incoming_graph.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"generate_incoming_graph.h"
+	"insert_edge.h"
+
+1618469433 c:\users\swast\onedrive\documents\programming_assignment2\question1\problem2\dinics_algo\generate_incoming_graph.h
+	"structures.h"
+
+1617705646 c:\users\swast\onedrive\documents\programming_assignment2\question1\problem2\dinics_algo\stack.h
+	<stdlib.h>
+
+1618480660 source:c:\users\swast\onedrive\documents\programming_assignment2\question1\problem2\dinics_algo\print_aug_graph.c
+	"print_aug_graph.h"
+
+1617698356 c:\users\swast\onedrive\documents\programming_assignment2\question1\problem2\dinics_algo\print_aug_graph.h
+	<stdio.h>
+	"structures.h"
+
+1618463818 source:c:\users\swast\onedrive\documents\programming_assignment2\question1\problem2\dinics_algo\level_graph.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"generate_graph.h"
+	"level_graph.h"
+	"vertex_count.h"
+	"queue.h"
+	"insert_edge.h"
+
+1618452153 c:\users\swast\onedrive\documents\programming_assignment2\question1\problem2\dinics_algo\level_graph.h
+
+1618417627 c:\users\swast\onedrive\documents\programming_assignment2\question1\problem2\dinics_algo\queue.h
+
+1618419293 source:c:\users\swast\onedrive\documents\programming_assignment2\question1\problem2\dinics_algo\queue.c
+	<stdlib.h>
+	<stdio.h>
+	"queue.h"
+
